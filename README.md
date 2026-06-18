@@ -6,11 +6,15 @@ ASA International Microfinance Service Ltd., Dhaka, Bangladesh
 
 ---
 
-## 🚀 Current Role & Responsibilities
+## 🚀 About Me
 
-I work as a Software Implementation Engineer with a strong focus on Python-based automation, data workflows, and internal software systems.
+Experienced Software Implementation Engineer with 5+ years in IT systems, business application support, and software implementation.
 
-### 🔹 Python Development, Data Automation & API Integration
+Currently focusing on **Python-based automation, backend development, and data engineering workflows** to transition into a more development-focused engineering role.
+
+---
+
+## 🔹 Python Development, Data Automation & API Integration
 
 - Automated reporting and data workflows using Python (Pandas, NumPy) and MSSQL, improving efficiency and reducing manual effort in business reporting processes.  
 - Enhanced reliability and maintainability of automation scripts through systematic debugging, performance tuning, and code optimization.  
@@ -20,21 +24,20 @@ I work as a Software Implementation Engineer with a strong focus on Python-based
 
 ---
 
-## 🧠 Current Learning & Development Focus
-- Advanced Python for backend & automation
-- REST API development with FastAPI
-- Data pipeline tools: Prefect & workflow automation
-- Google BigQuery for data engineering use cases
-- System design for scalable automation
+## 🧠 Current Learning Focus
+- Advanced Python (Backend & Automation)
+- REST API Development with FastAPI
+- Data Engineering (ETL pipelines, BigQuery)
+- Workflow orchestration with Prefect
+- System design fundamentals
 
 ---
 
 ## 🎯 Career Direction
 - Python Developer
-- Backend / API Engineer
-- Automation Engineer
+- Backend Engineer
 - Data Engineer
-
+- Automation Engineer
 
 ---
 
@@ -43,13 +46,24 @@ I work as a Software Implementation Engineer with a strong focus on Python-based
 - Pandas / NumPy
 - SQL / MSSQL / PostgreSQL
 - REST APIs (requests, FastAPI - learning)
-- C++
 - Git & GitHub
 - Google BigQuery (learning)
 - Prefect (learning)
 
 ---
 
+## 📌 Experience Summary
+- 5+ years of experience in IT systems, software implementation, and production support, with strong hands-on experience in Python automation, APIs, and data workflows.  
+- Strong experience in automation, reporting systems, and business applications  
+- Hands-on exposure to real-world data workflows and system troubleshooting  
+
+---
+
 ## 📫 Contact
-Email: hridoybiswas03@gmail.com
-LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/rhidoy-biswas-950a031a2/)
+- Email: hridoybiswas03@gmai.com  
+- LinkedIn: [your-linkedin-profile  ](https://www.linkedin.com/in/rhidoy-biswas-950a031a2/)
+
+---
+
+## 💡 Motto
+"Build systems that solve real problems, not just scripts that run."
