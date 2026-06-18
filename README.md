@@ -8,7 +8,7 @@ ASA International Microfinance Service Ltd., Dhaka, Bangladesh
 
 ## 🚀 About Me
 
-Experienced Software Implementation Engineer with 5+ years in IT systems, business application support, and software implementation.
+Software Implementation Engineer with 5+ years of experience in IT systems and enterprise application environments, with hands-on involvement in Python-based automation, data workflows, and production system support.
 
 Currently focusing on **Python-based automation, backend development, and data engineering workflows** to transition into a more development-focused engineering role.
 
