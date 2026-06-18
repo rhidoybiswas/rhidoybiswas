@@ -45,7 +45,8 @@ Currently focusing on **Python-based automation, backend development, and data e
 - Python
 - Pandas / NumPy
 - SQL / MSSQL / PostgreSQL
-- REST APIs (requests, FastAPI - learning)
+- REST APIs (requests, FastAPI)
+- C++
 - Git & GitHub
 - Google BigQuery (learning)
 - Prefect (learning)
