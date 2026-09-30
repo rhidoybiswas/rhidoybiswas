@@ -36,6 +36,7 @@ Currently focusing on **Python-based automation, backend development, and data e
 ## 🎯 Career Direction
 - Python Developer
 - Backend Engineer
+- SQA Engineer
 - Data Engineer
 - Automation Engineer
 
